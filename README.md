@@ -1,1 +1,1 @@
-# fastapi-online-course-platform
+# FASTAPI-ONLINE-COURSE-PLATFORM
